@@ -1,0 +1,130 @@
+#pagina a{
+    color: black;
+}
+
+#pagina ul{
+    color: black;
+}
+
+.logo{
+    color: black;
+}
+
+p{
+    font-size: 1.5vw;
+    font-weight: 300;
+    line-height: 2.5vw;
+}
+
+h2{
+    font-size: 2vw;
+    font-weight: 600;
+    margin-top: 4vw;
+
+}
+
+#solucion{
+    align-self: center;
+    margin-top: 3vw;
+}
+
+.imagen-titulo{
+    display: block;
+    margin: 0 auto;
+
+}
+
+.imagen-titulo2{
+    display: block;
+    margin: 0 auto;
+    margin-top: 5vw;
+
+}
+
+.imagen-gift{
+    display: block;
+    margin: 0 auto;
+    margin-top: 5vw;
+    
+
+}
+
+.imagen-gift-spoty{
+    display: block;
+    margin: 0 auto;
+    margin-top: 5vw;
+
+    
+
+}
+
+#enlace-medium{
+    color: #5BAD82;
+    font-size: 1.5vw;
+
+
+}
+
+
+
+#adrian{
+    text-decoration: none;
+    color: black
+    
+}
+
+@media (max-width: 375px){
+
+    h2{
+        font-size: 7.5vw;
+        font-weight: 600;
+        margin-top: 10vw;
+        margin-bottom: 3vw;
+    }
+
+    p{
+        font-size: 4.2vw;
+        font-weight: 300;
+        line-height: 6vw;
+    }
+
+    .row{
+        margin-left: 1vw;
+        margin-right: 1vw;
+
+
+    }
+
+    #enlace-medium{
+        color: #5BAD82;
+        font-size: 4.2vw;
+    
+    
+    }
+
+    .imagen-gift{
+        max-width: 50%;
+    }
+
+    .imagen-gift2{
+        max-width:300%;
+    }
+
+    .logo h1{
+        font-size: 3.6vw;
+    }
+
+    #pagina a{
+        font-size: 3vw;
+    }
+
+    .imagen-gift-spoty{
+        
+        
+    
+    }
+
+    
+
+}
+
